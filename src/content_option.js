@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "Summary",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "As a dedicated and passionate computer scientist, I possess a robust foundation in software engineering, artificial intelligence, machine learning, and data science. My enthusiasm for advancing technological frontiers is matched by my commitment to leveraging my expertise in meaningful projects that have a significant impact.",
 };
 const education = [{
         degree: "Master of Science, Computer Science",
@@ -33,7 +33,7 @@ const education = [{
 
 const skills = [{
         name: "Python",
-        value: 90,
+        value: 100,
     },
     {
         name: "Ruby",
@@ -41,15 +41,15 @@ const skills = [{
     },
     {
         name: "Java",
-        value: 80,
+        value: 75,
     },
     {
         name: "AWS",
-        value: 60,
+        value: 95,
     },
     {
         name: "C#",
-        value: 85,
+        value: 80,
     },
 ];
 
@@ -57,25 +57,25 @@ const Experience = [{
         title: "Data Scientist",
         where: "Apex Systems, DHS/USCIS · Contract",
         date: "Mar 2023 - Jul 2023",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Skills: Machine Learning · Data Science · Java · Python · Amazon Web Services (AWS) · Data Analysis · Data Bricks · Data Visualization · Jupyter Notebooks",
     },
     {
         title: "Software Engineer",
         where: "Ally Financial",
         date: "Aug 2021 - Jan 2023",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Skills: Java · C# · MySQL · Oracle DB · Amazon Web Services (AWS)· ReactJS · Power BI",
     },
     {
         title: "Full Stack Developer",
         where: "Brooksource, Ally Financial · Contract",
         date: "Jan 2021 - Aug 2021",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Skills: Java · C# · MySQL · Power BI",
     },
     {
         title: "AI/ML Researcher",
         where: "U.S. Department of State · VSFS Internship",
         date: "Aug 2020 - May 2021",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Skills: Python · Java  · C# · Machine Learning · Data Analysis · Google Colab · Web Scraping",
     },
 ];
 
