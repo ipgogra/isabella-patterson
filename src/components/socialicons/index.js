@@ -1,9 +1,6 @@
 import React from "react";
 import "./style.css";
-import {
-  FaGithub,
-  FaLinkedin,
-} from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { socialprof } from "../../content_option";
 
 export const Socialicons = (params) => {

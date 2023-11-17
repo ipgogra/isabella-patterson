@@ -10,8 +10,10 @@ import {
   Experience,
 } from "../../content_option";
 
+// About page component
 export const About = () => {
   return (
+    // HelmetProvider for managing changes to the document head
     <HelmetProvider>
       <Container className="About-header">
         <Helmet>
@@ -40,7 +42,7 @@ export const About = () => {
             <h3 className="color_sec py-4">Education</h3>
           </Col>
           <Col lg="7">
-                {education.map((data, i) => {
+            {education.map((data, i) => {
               return (
                 <div className="service_ py-4" key={i}>
                   <h5 className="service__title">{data.degree}</h5>
