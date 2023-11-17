@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/isabella-patterson/static/css/main.95ac8537.css",
-    "main.js": "/isabella-patterson/static/js/main.6406c3be.js",
+    "main.js": "/isabella-patterson/static/js/main.98ce4220.js",
     "index.html": "/isabella-patterson/index.html",
     "main.95ac8537.css.map": "/isabella-patterson/static/css/main.95ac8537.css.map",
-    "main.6406c3be.js.map": "/isabella-patterson/static/js/main.6406c3be.js.map"
+    "main.98ce4220.js.map": "/isabella-patterson/static/js/main.98ce4220.js.map"
   },
   "entrypoints": [
     "static/css/main.95ac8537.css",
-    "static/js/main.6406c3be.js"
+    "static/js/main.98ce4220.js"
   ]
 }
